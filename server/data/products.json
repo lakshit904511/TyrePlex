@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1767685279223",
+    "name": "iPhone 15",
+    "sku": "IPH15",
+    "price": 80000,
+    "stock": 10,
+    "createdAt": "2026-01-06T07:41:19.223Z"
+  },
+  {
+    "id": "1767686470551",
+    "name": "redmi note 10",
+    "sku": "rn10",
+    "price": 25000,
+    "stock": 6,
+    "createdAt": "2026-01-06T08:01:10.551Z"
+  },
+  {
+    "id": "1767688744287",
+    "name": "Samsung LCD",
+    "sku": "SL20",
+    "price": 23000,
+    "stock": 9,
+    "createdAt": "2026-01-06T08:39:04.288Z"
+  },
+  {
+    "id": "1767688762070",
+    "name": "REMOTE",
+    "sku": "R34",
+    "price": 980,
+    "stock": 3,
+    "createdAt": "2026-01-06T08:39:22.070Z"
+  },
+  {
+    "id": "1767688783140",
+    "name": "CRICKET BAT",
+    "sku": "CB30",
+    "price": 3000,
+    "stock": 10,
+    "createdAt": "2026-01-06T08:39:43.140Z"
+  },
+  {
+    "id": "1767688799231",
+    "name": "BALL",
+    "sku": "B20",
+    "price": 100,
+    "stock": 20,
+    "createdAt": "2026-01-06T08:39:59.231Z"
+  },
+  {
+    "id": "1767688818420",
+    "name": "JEANS",
+    "sku": "J89",
+    "price": 1000,
+    "stock": 100,
+    "createdAt": "2026-01-06T08:40:18.420Z"
+  }
+]
